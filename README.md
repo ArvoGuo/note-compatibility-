@@ -1,6 +1,7 @@
 
 ```
-E:hover 在IE6中仅支持锚点 a:hover
+css选择器
+E:hover             在IE6中仅支持锚点 a:hover
 E:active            IE8+
 E:focus             IE8+
 E:target            IE9+
@@ -12,5 +13,13 @@ E:not               IE9+
 background-size
 ```
 ```
-IE 6 不支持多类名选择器，其将以末尾类名为准。
+opacity             IE8+ (IE 7-: fliter:alpha(opacity=0.3));
 ```
+```
+IE 6 不支持多类名选择器，其将以末尾类名为准。
+word-wrap 应用在pre 和table 中 是没有任何效果的。
+```
+
+
+
+
